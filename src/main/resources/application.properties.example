@@ -1,0 +1,6 @@
+transmission.ip=10.0.0.1
+transmission.port=9091
+transmission.user=username
+transmission.password=password
+kafka.ip=10.0.0.2
+kafka.port=9092
